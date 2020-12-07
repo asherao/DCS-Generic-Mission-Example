@@ -42,3 +42,5 @@ Waypoint 3: Sochi Runway Threshold<br>
 USA APC AAV-7 at Sukhumi3<br>
 <br>
 Russia APC BTR-80 at Gudauta<br>
+<br>
+https://www.markdownguide.org/basic-syntax/<br>
